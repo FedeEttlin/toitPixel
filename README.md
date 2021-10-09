@@ -105,3 +105,9 @@ DeviceName es el nombre que le pusimos al ESP32.
 ```
 toit deploy -d DeviceName app.yaml
 ```
+
+En unos segundos debería cargarse la aplicación en el ESP32 y los leds cambiar de color.
+
+Suerte
+Saludos
+Federico Ettlin
