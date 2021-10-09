@@ -19,7 +19,7 @@ Creamos una carpeta para nuestro proyecto y dentro de ella creamos 2 archivos:
 - app.toit
 - app.yaml
 
-Dentro del archivo app,yaml escribimos lo siguiente:
+Dentro del archivo app.yaml escribimos lo siguiente:
 
 ```
 name: app
