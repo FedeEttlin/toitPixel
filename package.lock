@@ -1,0 +1,7 @@
+prefixes:
+  pixel_strip: toit-pixel-strip
+packages:
+  toit-pixel-strip:
+    url: github.com/toitware/toit-pixel-strip
+    version: 0.0.4
+    hash: da4e95f400e87d4a77949f04531a0689ef7b8bd1

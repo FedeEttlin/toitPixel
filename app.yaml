@@ -1,0 +1,6 @@
+name: app
+
+entrypoint: app.toit
+triggers:
+  on_boot: true
+  on_install: true
