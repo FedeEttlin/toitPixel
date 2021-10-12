@@ -39,7 +39,7 @@ En el archivo app.toit que es nuestra aplicación que vamos a correr en el ESP32
 ```
 import pixel_strip show UartPixelStrip   // Importamos la librería pixel_strip que es la encargada de manejar los leds WS2812.
 
-PIXELS ::= 3   // Definimos la cantidad de LEDS que tenemos en la tira.
+PIXELS ::= 8   // Definimos la cantidad de LEDS que tenemos en la tira.
 TIEMPO ::= 300
 PIN::= 17      // Definimos el pin del ESP32 donde vamos a conectar la tira de LEDS, como vamos a usar la comunicación por UART es el pin 17.
 
