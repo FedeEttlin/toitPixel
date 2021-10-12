@@ -1,6 +1,6 @@
 import pixel_strip show UartPixelStrip
 
-PIXELS ::= 3 
+PIXELS ::= 8
 TIEMPO ::= 1000
 PIN::= 17
 

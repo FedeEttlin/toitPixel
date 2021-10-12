@@ -1,5 +1,7 @@
 # Como controlar una tira de Leds WS2812 conectada a un [ESP32 de Espressif](https://www.espressif.com) usando [TOIT](https://toit.io).
 
+[![Alt text](https://img.youtube.com/vi/KAeq1OoagZs/0.jpg)](https://www.youtube.com/watch?v=KAeq1OoagZs)
+
 ¿ Que necesitamos ?
 
 - Disponer de un ESP32 y una tira de leds WS2812.
@@ -107,5 +109,3 @@ toit deploy -d DeviceName app.yaml
 ```
 
 En unos segundos debería cargarse la aplicación en el ESP32 y los leds cambiar de color.
-
-Arriba!
