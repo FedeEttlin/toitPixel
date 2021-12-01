@@ -32,7 +32,7 @@ triggers:
     on_install: true
 ```
 
-Este archivo es para configurar la aplicación, por ahora lo vamos a dejar así pero para conocer más detalles podemos ir a [este link](https://docs.toit.io/platform/deploy/appspec/).
+Este archivo es para configurar la aplicación, por ahora lo vamos a dejar así pero para conocer más detalles podemos ir a [este link](https://docs.toit.io/platform/apps/appspec).
 
 En el archivo app.toit que es nuestra aplicación que vamos a correr en el ESP32 escribimos lo siguiente:
 
